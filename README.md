@@ -1,2 +1,2 @@
 # git
-This repository contains a turorial on using git together with github.
+This repository contains a tutorial on using git together with Git Hub.
