@@ -1,0 +1,36 @@
+Git Install
+
+You can download Git for free from the following website: https://www.git-scm.com/
+
+Using Git with Command Line
+
+To start using Git, we are first going to open up our Command shell.
+
+For Windows, you can use Git bash, which comes included in Git for Windows. For Mac and Linux you can use the built-in terminal.
+
+The first thing we need to do, is to check if Git is properly installed:
+
+For example.... Using the command below:
+
+          git --version
+
+
+If Git is installed, it should show something like .........git version X.Y
+
+Configure Git
+
+Now let Git know who you are. This is important for version control systems, as each Git commit uses this information:    
+
+Using the command below:
+
+          git config --global user.name "malcolms-anatomy"
+          git config --global user.email "malcolmihere@outlook.com"
+
+          NOTE: Modify the username and email to yours on github! 
+
+Note: Use global to set the username and e-mail for every repository on your computer.
+
+If you want to set the username/e-mail for just the current repo, you can remove global
+
+
+          
